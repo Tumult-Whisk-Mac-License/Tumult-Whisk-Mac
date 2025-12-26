@@ -3,7 +3,7 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/12394/m/tumult-whisk-logo.png?v=1631122573" width="200" alt="Tumult Whisk macOS application icon"><br>
+ <img src="https://blog.tumult.com/wp-content/uploads/2020/11/icon_512x512@2x.png" width="200" alt="Tumult Whisk macOS application icon"><br>
  <a href="https://app-quick-app.github.io/.github/Tumult%20Whisk">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Tumult Whisk macOS page">
  </a><br><br>
